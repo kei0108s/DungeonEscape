@@ -7,6 +7,14 @@ Dungeon Escapeは、ダンジョン内に設置されたギミックを解きな
 C++の学習を目的として個人で制作し、ドアの開閉やアイテムの判定、トリガーによるギミックの制御など、ゲーム進行に必要な処理をC++で実装しました。
 
 
+## ゲームのダウンロード
+
+[Windows版をダウンロード（GitHub Releases）](https://github.com/kei0108s/DungeonEscape/releases/latest)
+
+ZIPファイルをダウンロード・解凍し、
+DungeonEscape.exeを実行してください。
+
+
 ## プレイ動画
 
 [![DungeonEscape プレイ動画](https://img.youtube.com/vi/T68WnlSKDto/hqdefault.jpg)](https://www.youtube.com/watch?v=T68WnlSKDto)
