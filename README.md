@@ -6,6 +6,12 @@ Dungeon Escapeは、ダンジョン内に設置されたギミックを解きな
 
 C++の学習を目的として個人で制作し、ドアの開閉やアイテムの判定、トリガーによるギミックの制御など、ゲーム進行に必要な処理をC++で実装しました。
 
+
+## プレイ動画
+
+[![DungeonEscape プレイ動画](https://img.youtube.com/vi/T68WnlSKDto/hqdefault.jpg)](https://www.youtube.com/watch?v=T68WnlSKDto)
+
+
 ## ② 開発環境
 
 | 項目      | 内容                  |
